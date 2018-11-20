@@ -1,0 +1,47 @@
+{
+  "name": "react-virtualized-custom-table",
+  "version": "0.0.1",
+  "description": "Custom virtualized custom table in ReactJS",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afelicioni/react-virtualized-custom-table.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react-component",
+    "react",
+    "virtualized",
+    "custom",
+    "table"
+  ],
+  "author": "Alessio Felicioni <alessio.felicioni@gmail.com> (https://afelicioni.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afelicioni/react-virtualized-custom-table/issues"
+  },
+  "homepage": "https://github.com/afelicioni/react-virtualized-custom-table#readme",
+  "peerDependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "babel-runtime": "^6.26.0"
+  },
+  "dependencies": {
+    "react-scripts": "1.1.4"
+  }
+}
